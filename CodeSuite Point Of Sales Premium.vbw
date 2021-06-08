@@ -1,4 +1,4 @@
-aMainmenu = 177, 57, 822, 561, , 87, 69, 732, 574, C
+aMainmenu = 177, 57, 822, 561, C, 87, 69, 732, 574, C
 frmAktivasi = 182, 182, 852, 668, C, 156, 156, 909, 642, C
 FuncDek2Text = 0, 0, 0, 0, C
 Registry = 0, 0, 753, 486, C
@@ -167,7 +167,7 @@ trPembelianKonsinyasi = 0, 0, 0, 0, C, 130, 130, 883, 616, C
 Form2 = 0, 0, 0, 0, C, 156, 156, 909, 642, C
 rptSensusHarian = 0, 0, 0, 0, C, 182, 182, 935, 668, C
 rptRekapPenjualanBelumLunasLama = 0, 0, 0, 0, C, 208, 208, 961, 694, C
-trRefund = 130, 130, 759, 616, Z, 78, 78, 757, 564, C
+trRefund = 130, 130, 759, 616, C, 78, 78, 757, 564, C
 CashDrawer = 182, 182, 935, 668, C
 trKartuKredit = 0, 0, 706, 512, C, 208, 208, 914, 720, C
 cfgLimitPencarian = 52, 52, 758, 564, C, 26, 26, 732, 538, C
