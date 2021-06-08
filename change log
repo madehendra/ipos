@@ -1,0 +1,37 @@
+CodeSuite Point Of Sales
+Copyright 2007
+
+Developer: made hendra
+Contact: made.hendra@gmail.com
+Website: http://balihosting.balidreamball.com
+
+
+Major
+ - Perbaikan dilakukan pada tahun
+Minor
+ - Perubahan sistem
+ - Perubahan pada struktur tabel
+ - Perubahan tampilan (GUI)
+ - Perubahan modul,form, component
+ - Setiap kali terjadi perubahan Minor, nilai Revision di reset kembali menjadi 0
+Revision
+ - Perubahan pada penyempurnaan baris kode tanpa adanya perubahan tampilan
+ - Perbaikan bug pada modul tanpa mempengaruhi modul yang lain
+ 
+Map
++ = Tambahan
+- = Pengurangan
+! = Update/Penyempurnaan 
+
+CPOS 1.2.0
+! Update tampilan untuk library CodeSuite
+
+CPOS 1.1.0
++ Struktur table untuk table pemasukan dan pengeluaran, serta posnya
+! Tersedianya Plafond untuk customer
++ Transaksi Master pos pemasukan dan pengeluaran
++ Transaksi Pemasukan dan Pengeluaran
+! Proses penyimpanan pada Form Stockopname tidak sempurna
+! Penyempurnaan tampilan dan proses input pada master : supplier, inventory, customer, golongan stock, satuan.
++ Laporan Laba Rugi
+! Setiap kali menginput qty selain 1 pada form Penjualan Kasir, jumlah yg dihitung tetap 1.

@@ -1,0 +1,4 @@
+IP = localhost
+DATABASE = spl
+DSN = spl
+PORT = 3306
