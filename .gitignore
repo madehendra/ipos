@@ -14,3 +14,5 @@ CodeSuite*Framework*2020
 *.zip
 *.xls
 *.sql
+*.bak
+*.psc
