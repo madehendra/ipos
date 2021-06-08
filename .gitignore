@@ -11,3 +11,6 @@ CodeSuite*Framework*2020
 *.rar
 *.obj
 *.log
+*.zip
+*.xls
+*.sql
